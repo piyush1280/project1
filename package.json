@@ -2,6 +2,10 @@
   "name": "birthday-surprise",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piyush1280/project1.git"
+  },
   "dependencies": {
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.6.1",
